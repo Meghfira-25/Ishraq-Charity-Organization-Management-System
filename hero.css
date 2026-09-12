@@ -1,0 +1,64 @@
+.hero-container {
+    /* background-image: url("ChatGPT Image Aug 20, 2026, 09_43_23 AM.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    height: 90vh;
+    margin: 0px;
+}
+
+.hero-title {
+    margin-top: -20px;
+    margin-left: 145px;
+    margin-bottom: 25px;
+    padding-top: 270px;
+    font-weight: 600;
+    font-size: 3.6rem;
+    color: white;
+}
+
+.hero-title span {
+    font-size: 3.6rem;
+    color: #ffaf47;
+}
+
+.hero-text {
+    margin-left: 150px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    font-family: "Caacupe One", sans-serif !important;
+}
+
+.btn1 {
+    margin-left: 160px;
+    margin-top: 35px;
+    padding: 15px 20px;
+    background: #D6A84F;
+    color: black;
+    border: none;
+    border-radius: 14px;
+}
+
+.btn2 {
+    margin-left: 30px;
+    margin-top: 35px;
+    padding: 15px 30px;
+    color: #ffaf47;
+    background: transparent;
+    border: 2px solid #ffaf47 ;
+    border-radius: 15px;
+    
+}
+
+ .btn1:hover {
+ transform: translateY(-2px);
+  box-shadow:
+    0 8px 25px rgba(220, 170, 80, 0.2);
+}
+
+.btn2:hover {
+   transform: translateY(-2px);
+  box-shadow:
+    0 8px 25px rgba(220, 170, 80, 0.2);
+} 

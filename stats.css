@@ -1,0 +1,40 @@
+.stats-section {
+  width: 98.5vw;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 27px;
+  text-align: center;
+  /* background-color: #a08559; */
+  padding: 130px;
+  /* background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); */
+}
+
+.stat {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  width: 20vw;
+  height: 35vh;
+}
+.stat i{
+  margin-top: 70px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  color: #e3b45d;
+}
+
+.stat h2 {
+  font-size: 50px;
+  color: #e3b45d;
+  
+}
+
+.stat p {
+  margin: 0;
+  font-size: 18px;
+  color: #fff;
+}
